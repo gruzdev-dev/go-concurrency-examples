@@ -1,0 +1,6 @@
+{
+  "goroutines_count": 10,
+  "iterations": 1000,
+  "mode": "mutex"
+}
+
